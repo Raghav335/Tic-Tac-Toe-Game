@@ -55,7 +55,7 @@ If all 9 squares are filled and no player has 3 in a row, the game ends in a dra
 
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.https://github.com/Raghav335/Tic-Tac-Toe-Game/blob/main/LICENSE
 
 🙌 Contributing
 
