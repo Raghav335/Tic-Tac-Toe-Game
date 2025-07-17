@@ -7,7 +7,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ![Game Screenshot](https://github.com/Raghav335/Tic-Tac-Toe-Game/blob/main/screenshot%20tic%20tok%20toe%20game.jpg) <!-- Replace with your screenshot file path -->
 
-Try the game live: [Click Here](https://your-live-link.vercel.app/) <!-- Replace with your live site link -->
+Try the game live: [Click Here](https://tic-tac-toe-game-self-three.vercel.app/)
 
 
 ## 🧩 Features
