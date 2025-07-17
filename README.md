@@ -50,8 +50,7 @@ If all 9 squares are filled and no player has 3 in a row, the game ends in a dra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Raghav335/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/Raghav335/Tic-Tac-Toe-Game
 
 
 📄 License
