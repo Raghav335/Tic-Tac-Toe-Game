@@ -9,7 +9,6 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 Try the game live: [Click Here](https://your-live-link.vercel.app/) <!-- Replace with your live site link -->
 
----
 
 ## 🧩 Features
 
@@ -51,7 +50,7 @@ If all 9 squares are filled and no player has 3 in a row, the game ends in a dra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/Raghav335/tic-tac-toe.git
    cd tic-tac-toe
 
 
